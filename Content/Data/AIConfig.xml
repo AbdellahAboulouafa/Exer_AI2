@@ -1,0 +1,11 @@
+<AIConfig> 
+  <Perception> 
+    <SightRadius>1500</SightRadius> 
+    <LoseSightRadius>1800</LoseSightRadius> 
+    <PeripheralVisionDegrees>70</PeripheralVisionDegrees> 
+    <HearingRange>1200</HearingRange> 
+  </Perception> 
+  <Behavior> 
+    <SearchDurationSeconds>4</SearchDurationSeconds> 
+  </Behavior> 
+</AIConfig>
