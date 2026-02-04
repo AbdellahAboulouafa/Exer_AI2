@@ -1,0 +1,22 @@
+Distribution des taches
+
+
+Paulo: 5 – Pipeline Data-Driven (XML → IA), 10 - Créer un outil externe (C#) modifiant le XML (voir annèxe pour vous faire guidés)
+
+
+Isaiah: Étape 1 – Préparer le fichier XML (données externes),
+
+
+Abdellah: 2 – Blackboard (mémoire de l’IA), 3 – Behavior Tree (logique), Créez le projet,
+
+
+Yan: 6 – Lien Perception → Blackboard,
+
+
+4 – AI Perception (Sight + Hearing)
+
+7 - Implémenter une FSM avancée dans la branche Chase
+
+9 - Implémenter une logique floue pour moduler l’agressivité
+
+8 - Intégrer MiniMax data‑driven pour choisir Attack / Defend / Retreat
