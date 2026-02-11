@@ -8,4 +8,10 @@
   <Behavior> 
     <SearchDurationSeconds>4</SearchDurationSeconds> 
   </Behavior> 
+  <Fuzzy>
+    <CloseMax>300</CloseMax>
+    <FarMin>1200</FarMin>
+    <LowHP>20</LowHP>
+    <HighHP>70</HighHP>
+  </Fuzzy>
 </AIConfig>

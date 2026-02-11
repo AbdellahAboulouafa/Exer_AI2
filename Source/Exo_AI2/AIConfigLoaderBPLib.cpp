@@ -48,5 +48,12 @@ bool UAIConfigLoaderBPLib::LoadAIConfigFromXML(const FString& RelativePathFromPr
     const FXmlNode* Behavior = Root->FindChildNode("Behavior");
     ReadFloatTag(Behavior, "SearchDurationSeconds", OutConfig.SearchDurationSeconds);
 
+    const FXmlNode* Fuzzy = Root->FindChildNode("Fuzzy");
+    ReadFloatTag(Fuzzy, "CloseMax", OutConfig.CloseMax);
+    ReadFloatTag(Fuzzy, "FarMin", OutConfig.FarMin);
+    ReadFloatTag(Fuzzy, "LowHP", OutConfig.LowHP);
+    ReadFloatTag(Fuzzy, "HighHP", OutConfig.HighHP);
+
+
     return true;
 }
