@@ -1,0 +1,15 @@
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\bin\Debug\net9.0\Tool.exe
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\bin\Debug\net9.0\Tool.deps.json
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\bin\Debug\net9.0\Tool.runtimeconfig.json
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\bin\Debug\net9.0\Tool.dll
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\bin\Debug\net9.0\Tool.pdb
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.sourcelink.json
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.dll
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\refint\Tool.dll
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.pdb
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\ref\Tool.dll
