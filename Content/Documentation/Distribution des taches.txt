@@ -1,22 +1,14 @@
 Distribution des taches
 
 
-Paulo: 5 – Pipeline Data-Driven (XML → IA), 10 - Créer un outil externe (C#) modifiant le XML (voir annèxe pour vous faire guidés)
+Paulo: 5 – Pipeline Data-Driven (XML → IA), 10 - Créer un outil externe (C#) modifiant le XML, créé les BT Tasks.
 
 
-Isaiah: Étape 1 – Préparer le fichier XML (données externes),
+Isaiah: Étape 1 – Préparer le fichier XML (données externes), 4 – AI Perception (Sight + Hearing)
 
 
-Abdellah: 2 – Blackboard (mémoire de l’IA), 3 – Behavior Tree (logique), Créez le projet,
+Abdellah: 2 – Blackboard (mémoire de l’IA), 3 – Behavior Tree (logique), Créez le projet, 7 - Implémenter une FSM avancée dans la branche Chase, 8 - Intégrer MiniMax data‑driven pour choisir Attack / Defend / Retreat, créé BT Service.
 
 
-Yan: 6 – Lien Perception → Blackboard,
+Yan: 6 – Lien Perception → Blackboard, 9 - Implémenter une logique floue pour moduler l’agressivité
 
-
-4 – AI Perception (Sight + Hearing)
-
-7 - Implémenter une FSM avancée dans la branche Chase
-
-9 - Implémenter une logique floue pour moduler l’agressivité
-
-8 - Intégrer MiniMax data‑driven pour choisir Attack / Defend / Retreat
