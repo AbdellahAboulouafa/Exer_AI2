@@ -14,4 +14,7 @@
     <LowHP>20</LowHP>
     <HighHP>70</HighHP>
   </Fuzzy>
+  <Patrol>
+  	<PatrolPathName>PathA</PatrolPathName>
+  </Patrol>
 </AIConfig>
