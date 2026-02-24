@@ -13,3 +13,18 @@ C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\r
 C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.pdb
 C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.genruntimeconfig.cache
 C:\Users\paulo\OneDrive\Documents\GitHub\Exer_AI2\Source\Tool\obj\Debug\net9.0\ref\Tool.dll
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\bin\Debug\net9.0\Tool.exe
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\bin\Debug\net9.0\Tool.deps.json
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\bin\Debug\net9.0\Tool.runtimeconfig.json
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\bin\Debug\net9.0\Tool.dll
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\bin\Debug\net9.0\Tool.pdb
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.AssemblyInfoInputs.cache
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.AssemblyInfo.cs
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.csproj.CoreCompileInputs.cache
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.sourcelink.json
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.dll
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\obj\Debug\net9.0\refint\Tool.dll
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.pdb
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\obj\Debug\net9.0\Tool.genruntimeconfig.cache
+C:\Users\aboul\OneDrive\Documents\Unreal Projects\Exo_AI2\Exer_AI2\Source\Tool\obj\Debug\net9.0\ref\Tool.dll

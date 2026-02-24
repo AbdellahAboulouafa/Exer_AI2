@@ -1,20 +1,26 @@
-<AIConfig> 
-  <Perception> 
-    <SightRadius>1500</SightRadius> 
-    <LoseSightRadius>1800</LoseSightRadius> 
-    <PeripheralVisionDegrees>70</PeripheralVisionDegrees> 
-    <HearingRange>1200</HearingRange> 
-  </Perception> 
-  <Behavior> 
-    <SearchDurationSeconds>4</SearchDurationSeconds> 
-  </Behavior> 
+<AIConfig>
+  <Perception>
+    <SightRadius>1000</SightRadius>
+    <LoseSightRadius>1800</LoseSightRadius>
+    <PeripheralVisionDegrees>70</PeripheralVisionDegrees>
+    <HearingRange>1200</HearingRange>
+  </Perception>
+
+  <Search>
+    <SearchDurationSeconds>4</SearchDurationSeconds>
+  </Search>
+
   <Fuzzy>
     <CloseMax>300</CloseMax>
     <FarMin>1200</FarMin>
     <LowHP>20</LowHP>
     <HighHP>70</HighHP>
   </Fuzzy>
-  <Patrol>
-  	<PatrolPathName>PathA</PatrolPathName>
-  </Patrol>
+
+  <MiniMax>
+    <State distance="Near" hp="High" attack="10" defend="5" retreat="-5" />
+    <State distance="Near" hp="Low"  attack="-10" defend="5" retreat="8" />
+    <State distance="Far"  hp="High" attack="3" defend="6" retreat="0" />
+    <State distance="Far"  hp="Low"  attack="-8" defend="4" retreat="10" />
+  </MiniMax>
 </AIConfig>
