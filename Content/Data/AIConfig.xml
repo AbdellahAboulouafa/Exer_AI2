@@ -1,7 +1,7 @@
 <AIConfig>
   <Perception>
-    <SightRadius>1000</SightRadius>
-    <LoseSightRadius>1800</LoseSightRadius>
+    <SightRadius>1500</SightRadius>
+    <LoseSightRadius>1200</LoseSightRadius>
     <PeripheralVisionDegrees>70</PeripheralVisionDegrees>
     <HearingRange>1200</HearingRange>
   </Perception>
