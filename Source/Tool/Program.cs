@@ -114,4 +114,3 @@ Directory.CreateDirectory(Path.GetDirectoryName(outPath)!);
 File.WriteAllText(outPath, xml);
 
 Console.WriteLine("✅ AIConfig.xml généré : " + outPath);
-Console.WriteLine("Astuce : côté Unreal, vous pouvez ajouter une touche (ex: R) pour recharger le XML sans relancer.");
